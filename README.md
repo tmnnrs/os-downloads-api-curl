@@ -43,7 +43,7 @@ Access-Control-Allow-Methods: GET
 ### script.sh
 
 ```sh
-#!/bin/zsh
+#!/bin/bash
 
 productId=OpenTOID
 area=( HP HT HU HW HX HY HZ NA NB NC ND NF NG NH NJ NK NL NM NN NO NR NS NT NU NW NX NY NZ OV SD SE SH SJ SK SM SN SO SP SR SS ST SU SV SW SX SY SZ TA TF TG TL TM TQ TR TV )
